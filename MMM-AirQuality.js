@@ -38,7 +38,7 @@ Module.register('MMM-AirQuality', {
 		this.updateDom(this.animationSpeed);
 	},
 	html: {
-		icon: '<i class="fa fa-leaf"></i>',
+		icon: '',
 		city: '<div class="xsmall">{0}</div>',
 		quality: '<div>{0} {1}{2}</div>'
 	},
